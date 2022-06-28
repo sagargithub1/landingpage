@@ -1,0 +1,52 @@
+.header{
+    background-color:darkslategrey;
+}
+
+.head-img{
+    width: 80px;
+    margin-left: 20px;
+}
+
+.head-text{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.fc-img{
+    width: 200px;
+    border-radius: 100px 100px 100px 100px;
+    border: 1px solid black;
+    
+}
+
+.fc-text{
+    margin-top: 20px;
+    color: black;
+}
+
+.mw-img{
+    border-radius: 20px;
+}
+
+.desc{
+    font-style: italic;
+    text-align: justify;
+}
+
+.footer{
+    background-color: darkslategrey;
+    padding: 10px;
+    margin-top: 60px;
+    height: 100%;
+}
+
+.foot-img{
+    margin-left: 85px;
+    margin-top: 25px;
+    width: 35%;
+}
+
+.footer2{
+    background-color: darkslategrey;
+}
